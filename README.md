@@ -1,2 +1,2 @@
-# LSINC1112
-[LSINC1112] Algèbre
+# LSINF1111
+Introduction à l'analyse
